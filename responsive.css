@@ -1,0 +1,129 @@
+@media all and (max-width:1400px) {
+    span.first {
+        margin-left: 100px;
+    }
+    span.second {
+        margin-left: 116px;
+    }
+    span.three {
+        margin-left: 93px;
+    }
+    span.four {
+        margin-left: 45px;
+    }
+    span.five {
+        margin-left: 125px;
+    }
+    h2.join {
+        font-size: 27px;
+    }
+    button.creat {
+        padding: 12px 40px;
+        margin-left: 37px;
+    
+    }
+}
+@media all and (max-width:1200px){
+    span.first {
+        margin-left: 65px;
+    }
+    span.second {
+        margin-left: 82px;
+    }
+    span.three {
+        margin-left: 57px;
+    }
+    span.four {
+        margin-left: 12px;
+    }
+    span.five {
+        margin-left: 91px;
+    }
+    .contact {
+        
+        padding: 20px;
+        
+    }
+    span.start.end {
+        position: relative;
+        right: -50px;
+    }
+    .contact-title {
+        font-size: 19px;
+    }
+    .joni-text {
+        text-align: center;
+    }
+    h2.join {
+        font-size: 30px;
+    }
+    button.creat {
+    padding: 12px 50px;
+    margin-top: 10px;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 18px !important;
+}
+span.address {
+    padding-left: 37px;
+}
+span.eml {
+    padding-left: 57px;
+}
+span.name {
+    padding-left: 12px;
+}
+span.eml {
+    padding-left: 41px;
+}
+span.adrs {
+    padding-left: 66px;
+}
+}
+@media all and (max-width:992px){
+    .category-item {
+        text-align: center;
+        padding: 0px 61px;
+        margin-left: 40px;
+    }
+    .contact-title {
+        font-size: 22px;
+    }
+    .contact {
+        margin-bottom: 60px;
+    }
+    .contact2 {
+        margin-top: 20px;
+    }
+    span.adrs {
+        padding-left: 0px;
+    }
+}
+@media all and (max-width:768px){
+    h2.join {
+        font-size: 26px;
+    }
+    button.creat {
+        padding: 10px 40px;
+        margin-top: 6px;
+    }
+    span.eml {
+        padding-left: 56px;
+    }
+}
+@media all and (max-width:575px){
+    .footer-widget5 {
+        margin-left: 100px;
+    }
+}
+@media all and (max-width:560px){
+    .footer-widget5 {
+        margin-left: 80px;
+    }
+    
+}
+@media all and (max-width:400) {
+    .category-item {
+        margin-left: 63px;
+    }
+}
